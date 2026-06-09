@@ -1,7 +1,7 @@
 # CEOS_EDU: The Open Kitchen
 
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I0000KbRBoV6q1os/fit=1440" alt="CEOS Ecosystem Icons" />
+  <img src="https://www.photoshelter.com/img-get/I0000KbRBoV6q1os/s/1440" alt="CEOS Ecosystem Icons" />
 </p>
 
 Welcome to the **Creative_EngineOS (CEOS)** introduction. 
@@ -40,22 +40,22 @@ The moment data is captured in the field, we lock in the facts to eliminate inge
 **`CEOS_FieldNotes`**  
 Capturing raw field data and structuring it into standardized XMP metadata.
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I0000cCn8EHawXP0/fit=1440" alt="CEOS FieldNotes" />
+  <img src="https://www.photoshelter.com/img-get/I0000cCn8EHawXP0/s/1440" alt="CEOS FieldNotes" />
 </p>
 
 **`CEOS_PhotoArchive`**  
 An intelligent, self-managing repository that uses local AI (`llava`) to tag and catalog images without ever altering your master files.
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I0000J.9nSOi5_jQ/fit=1440" alt="PhotoArchive Overview" />
+  <img src="https://www.photoshelter.com/img-get/I0000J.9nSOi5_jQ/s/1440" alt="PhotoArchive Overview" />
 </p>
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I0000AvfDzfDxlJc/fit=1440" alt="PhotoArchive Detailed View" />
+  <img src="https://www.photoshelter.com/img-get/I0000AvfDzfDxlJc/s/1440" alt="PhotoArchive Detailed View" />
 </p>
 
 **`CEOS_ContactSheet`**  
 Visualizing the raw ingest for immediate editorial review.
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I000098xB70AftD8/fit=1440" alt="ContactSheet" />
+  <img src="https://www.photoshelter.com/img-get/I000098xB70AftD8/s/1440" alt="ContactSheet" />
 </p>
 
 ### The Bench: Drafting and Verification
@@ -64,19 +64,19 @@ Writing and assembling the narrative. This is where the heavy lifting occurs in 
 **`CEOS_WorkBench`**  
 The central hub for managing the strict progression of a document from Raw to Published, relying on non-destructive culling.
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I00008ePolE68wZQ/fit=1440" alt="WorkBench Editor" />
+  <img src="https://www.photoshelter.com/img-get/I00008ePolE68wZQ/s/1440" alt="WorkBench Editor" />
 </p>
 
 **`CEOS_DeepDive` (Comprehensive Verification)**  
 Harvesting unstructured data to generate Knowledge Graphs, verifying relationships between subjects locally.
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I0000y9rec.4fi3E/fit=1440" alt="DeepDive Map View" />
+  <img src="https://www.photoshelter.com/img-get/I0000y9rec.4fi3E/s/1440" alt="DeepDive Map View" />
 </p>
 
 **`CEOS_DataCurator` (ContentFlow)**  
 Managing Constitutional AI. The DataCurator acts as the governor, ensuring any local LLM generation adheres strictly to your editorial "Guidance Profiles."
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I0000RLi8_RqFcZg/fit=1440" alt="DataCurator" />
+  <img src="https://www.photoshelter.com/img-get/I0000RLi8_RqFcZg/s/1440" alt="DataCurator" />
 </p>
 
 ### Delivery: Optimization and Authentication
@@ -85,10 +85,10 @@ Packaging the final product for syndication, completely optimized for Answer Eng
 **`CEOS_SearchLight`**  
 Generating local Schema.org JSON-LD scripts and auditing content before it goes public.
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I000005wmJ1sSb44/fit=1440" alt="SearchLight Desktop" />
+  <img src="https://www.photoshelter.com/img-get/I000005wmJ1sSb44/s/1440" alt="SearchLight Desktop" />
 </p>
 <p align="center">
-  <img src="https://www.photoshelter.com/embed-get/I0000d8CG.iYVuKg/fit=1440" alt="SearchLight WebPortal" />
+  <img src="https://www.photoshelter.com/img-get/I0000d8CG.iYVuKg/s/1440" alt="SearchLight WebPortal" />
 </p>
 
 ---
