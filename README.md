@@ -110,3 +110,24 @@ The CEOS_EDU initiative is designed to meet you where you are. Choose the path t
 - **The Action:** Hire Bastiaan Slabbers as your Principal Art Director or Commissioned Producer. As a long-time freelancer and the architect of CEOS, Bastiaan will bring this workflow directly into your organization. By adopting the CEOS ethical framework, we will solve your production drag, protect your brand's credibility from AI-slop, and establish a transparent, verifiable pipeline for your content.
 
 *To begin your journey on Path B or C, or to discuss commissioning Bastiaan Slabbers for your organization, please reach out via [BastiaanSlabbers.com](https://www.bastiaanslabbers.com/).*
+
+---
+
+## 5. Available Tools, Prototypes, & Projects
+
+The CEOS ecosystem is constantly evolving. Below is a live directory of tools, utilities, and prototypes currently available for testing, use, or purchase.
+
+### Downloadable Tools (Test & Purchase)
+- **`_WorkBench` (Beta):** [Introducing CEOS _WorkBench](https://oogimages.com/introducing-ceos-_workbench-beta/)
+- **`_SpriteSheet`:** [Download on Gumroad](https://creativeengineos.gumroad.com/l/CEOS_SpriteSheet)
+
+### Public Webtools
+- **OogImages Slug Search:** [Photo Archive Search Powered by CEOS](https://oogimages.com/dashboard/labs/photo-archive-search-powerd-by-creative_engine_os/)
+- **XMP Generator:** [Live Web Tool](https://bastiaanslabbers.com/labs/xmp-generator/) | [GitHub Repository](https://github.com/creativeengineos/CEOS_XMP-Generator)
+
+### Experimental Prototypes
+- **`_ContactSheets`:** [Streamlit Web Exporter](https://contactsheetspngexporter-dzqrxzgxnjttu2ybu3j6cv.streamlit.app)
+- **`_MAB 1986` (RetroBall Prototype):** [Download macOS App on Gumroad](https://creativeengineos.gumroad.com/l/MAB_Retro_MacOS) | [Play Online in Browser](https://creativeengineos.github.io/mab1986/)
+
+### Full Projects Built on CEOS
+- **CEOS_Games Collection:** Explore complete indie game projects fully developed and packaged within the CEOS ecosystem at [Itch.io](https://creative-engineos.itch.io).
